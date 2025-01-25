@@ -6,6 +6,15 @@ to be retrained with the same cadence, necessitating an end-to-end pipeline that
 
 In this project you will build such a pipeline.
 
+## Project References
+
+### Weights & Biases (W&B) Project
+[Access the W&B project here](https://wandb.ai/carmensscartezini/projects)
+
+### GitHub Repository
+[Access the GitHub repository here](https://github.com/carmenscar/build-ml-pipeline)
+
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
