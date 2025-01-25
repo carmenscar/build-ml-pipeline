@@ -138,6 +138,8 @@ def go(args):
     run.log(
         {
           "feature_importance": wandb.Image(fig_feat_imp),
+          "r2": r_squared,
+          "mae": mae
         }
     )
 
